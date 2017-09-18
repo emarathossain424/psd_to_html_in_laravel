@@ -1,0 +1,125 @@
+.hed
+{
+  background: url(/project_parrot/public/images/Header_bg.png);
+  background-repeat: no-repeat;
+  background-size: contain; 
+
+
+}
+
+.choose_your_offer
+{
+	margin-top: 5%;
+	border-right: solid;border-bottom: solid;
+    border-width: 1px;
+    border-color:silver;
+}
+
+.choose_your_offer2
+{
+	border-right: solid;
+    border-width: 1px;
+    border-color:silver;
+}
+
+.custom_button
+{
+	background-color:#09BCD3;
+	border-style:none;
+	width:60%;
+	height:50%;
+	color:white;
+	font-size:13px;
+	margin-bottom:6%;
+	border-radius:none;
+
+}
+.location_icon
+{
+	color:#09BCD3; font-size:15px;
+}
+.offers_available_icon
+{
+	color:#7f8c8d; font-size:15px;
+}
+.custom_off_button
+{
+	margin-bottom:6%;
+}
+.custom_viewoffer_button
+{
+
+ 	background-color:#09BCD3;
+	border-style:none;
+	width:100%;
+	height:60%;
+	color:white;
+	font-size:14px;
+}
+.custom_viewoffer_button:hover
+{
+	color:white;
+}
+.custom_button:hover
+{
+	color:white;
+}
+.header_layout
+{
+	margin-top:5%;margin-bottom:30%;margin-left:40%;
+}
+.header_logo
+{
+	max-width: 100%;height: auto;opacity:1;
+}
+.header_text
+{
+	font-size:1.2vw;color:white;margin-top:5%;
+}
+.what_we_do
+{
+	text-align:center;
+}
+.what_we_do p
+{
+	margin-top:5%;
+}
+.choose_ur_offer
+{
+	margin-top:5%;
+	text-align:center;
+}
+img
+{
+	max-width: 100%;height:auto;
+}
+.cheak_our_offer,.cheak_our_offer2
+{
+	margin-top:5%;
+}
+
+.cheak_our_offer h3
+{
+	text-align:center;
+}
+.footerx
+{
+	margin-top:15%;text-align:center;
+}
+.footery
+{
+	margin-top:7%;margin-left:6%;
+}
+.footerx
+{
+	margin-top:15%;text-align:center;
+}
+.footerz
+{
+	margin-top:7%;margin-left:3%;
+}
+.footerw
+{
+	margin-bottom:7%;margin-left:5%;
+}
+
